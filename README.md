@@ -1,2 +1,2 @@
 # LargeSHS
-Coming soon!
+Detail is coming soon!
