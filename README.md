@@ -48,6 +48,6 @@ LargeSHS is the **publicly available dataset** containing structured adaptation 
 If you use **LargeSHS** in your research, please cite:
 
 > Chih-Pin Tan, Hsuan-Kai Kao, Li Su, and Yi-Hsuan Yang.  
-> “**LargeSHS: A Large-Scale Dataset of Music Adaption**.”  
+> “**LargeSHS: A Large-Scale Dataset of Music Adaptation**.”  
 > *Extended Abstracts for the Late-Breaking Demo Session, ISMIR 2025, Daejeon, South Korea.*  
 
