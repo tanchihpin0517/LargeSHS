@@ -29,7 +29,7 @@ It is built upon the [SecondHandSongs (SHS)](https://secondhandsongs.com) databa
 | SHS100K | 100K | SHS | Metadata + Links |
 | **LargeSHS (ours)** | **1.7M / 900K** | **SHS** | **Metadata + Audio links + Adaptation trees** |
 
-LargeSHS is the **largest publicly available dataset** containing structured adaptation information, bridging the gap between symbolic metadata and audio-level data for music adaptation research.
+LargeSHS is the **publicly available dataset** containing structured adaptation information, bridging the gap between symbolic metadata and audio-level data for music adaptation research.
 
 ---
 
